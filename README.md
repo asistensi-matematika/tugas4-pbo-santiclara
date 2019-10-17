@@ -36,7 +36,4 @@ NRP: 06111840000090
 
 
 ## Upload
-/Users/santiclara/Desktop/no1.png
-/Users/santiclara/Desktop/no2.png
-/Users/santiclara/Desktop/no3.png
-/Users/santiclara/Desktop/no4.png
+/Users/santiclara/Desktop/no1.png /Users/santiclara/Desktop/no2.png /Users/santiclara/Desktop/no3.png /Users/santiclara/Desktop/no4.png
