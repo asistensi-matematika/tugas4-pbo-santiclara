@@ -32,7 +32,10 @@ NRP: 06111840000090
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+/Users/santiclara/Desktop/no4.png
+/Users/santiclara/Desktop/no1.png
+/Users/santiclara/Desktop/no2.png
+/Users/santiclara/Desktop/no3.png
 
 ## Upload
-upload seluruh folder project java-nya ke repository ini
+/Users/santiclara/Desktop/PBO/PBO/TUGASASIS4
