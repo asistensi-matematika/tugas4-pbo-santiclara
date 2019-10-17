@@ -33,7 +33,7 @@ NRP: 06111840000090
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
 
-/Users/santiclara/Desktop/no4.png
+
 
 ## Upload
-/Users/santiclara/Desktop/PBO/PBO/TUGASASIS4
+
